@@ -1,2 +1,2 @@
 # ADHD-Detection
-Detectind ADHD from Brain MRI
+Detecting ADHD from Brain MRI
